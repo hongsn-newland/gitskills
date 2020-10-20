@@ -1,2 +1,2 @@
 # gitskills
-creating on main
+creating a new branch is quick and sample;
